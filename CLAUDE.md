@@ -1,0 +1,2 @@
+# Claude collaboration
+Read README.md, AGENTS.md and research/STATUS.md first. Confirm repository visibility and follow privacy constraints. Use a separate claude/ branch, independently audit experimental methodology, propose one focused improvement and open a pull request with reproducible tests. Do not merge, publish, spend credits or add collaborators without approval. While public, restrict work to public-source research and non-sensitive planning. Do not claim access to local experiments until committed.
